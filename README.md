@@ -1,0 +1,2 @@
+# Gofer
+sample go project
